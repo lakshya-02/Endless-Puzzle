@@ -1,0 +1,8 @@
+{
+  "colors": [
+    { "id": "red", "displayName": "red", "htmlColor": "#E74C3C" },
+    { "id": "blue", "displayName": "blue", "htmlColor": "#3498DB" },
+    { "id": "green", "displayName": "green", "htmlColor": "#2ECC71" },
+    { "id": "yellow", "displayName": "yellow", "htmlColor": "#F1C40F" }
+  ]
+}

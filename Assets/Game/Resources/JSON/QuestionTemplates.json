@@ -1,0 +1,32 @@
+{
+  "templates": [
+    {
+      "id": "select_color",
+      "format": "Select the {color} object",
+      "requiredAttributes": ["color"],
+      "minScore": 0,
+      "weight": 2
+    },
+    {
+      "id": "tap_shape",
+      "format": "Tap the {shape}",
+      "requiredAttributes": ["shape"],
+      "minScore": 2,
+      "weight": 1
+    },
+    {
+      "id": "select_color_shape",
+      "format": "Select the {color} {shape}",
+      "requiredAttributes": ["color", "shape"],
+      "minScore": 0,
+      "weight": 5
+    },
+    {
+      "id": "tap_color_shape",
+      "format": "Tap the {color} {shape}",
+      "requiredAttributes": ["color", "shape"],
+      "minScore": 4,
+      "weight": 4
+    }
+  ]
+}

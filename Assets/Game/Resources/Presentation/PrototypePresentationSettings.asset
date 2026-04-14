@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e764b61e1d98c10408f1fdfdd5ad6eeb, type: 3}
+  m_Name: PrototypePresentationSettings
+  m_EditorClassIdentifier: 
+  _fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  _colorMaterialPalette: {fileID: 11400000, guid: 43dd20aa03efe3540800874761161ff4,
+    type: 2}
+  _failZoneMaterial: {fileID: 2100000, guid: c61e4d2858516e748889bf88eb27cbc3, type: 2}

@@ -1,0 +1,53 @@
+{
+  "tiers": [
+    {
+      "scoreThreshold": 0,
+      "maxActiveObjects": 3,
+      "fallSpeed": 1.8,
+      "misleadingChance": 0.06,
+      "spawnInterval": 1.02
+    },
+    {
+      "scoreThreshold": 5,
+      "maxActiveObjects": 3,
+      "fallSpeed": 2.0,
+      "misleadingChance": 0.1,
+      "spawnInterval": 0.96
+    },
+    {
+      "scoreThreshold": 11,
+      "maxActiveObjects": 4,
+      "fallSpeed": 2.2,
+      "misleadingChance": 0.15,
+      "spawnInterval": 0.9
+    },
+    {
+      "scoreThreshold": 18,
+      "maxActiveObjects": 4,
+      "fallSpeed": 2.4,
+      "misleadingChance": 0.22,
+      "spawnInterval": 0.84
+    },
+    {
+      "scoreThreshold": 26,
+      "maxActiveObjects": 5,
+      "fallSpeed": 2.65,
+      "misleadingChance": 0.3,
+      "spawnInterval": 0.78
+    },
+    {
+      "scoreThreshold": 35,
+      "maxActiveObjects": 6,
+      "fallSpeed": 2.95,
+      "misleadingChance": 0.4,
+      "spawnInterval": 0.71
+    },
+    {
+      "scoreThreshold": 45,
+      "maxActiveObjects": 7,
+      "fallSpeed": 3.25,
+      "misleadingChance": 0.5,
+      "spawnInterval": 0.64
+    }
+  ]
+}

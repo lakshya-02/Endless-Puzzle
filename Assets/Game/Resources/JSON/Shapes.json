@@ -1,0 +1,8 @@
+{
+  "shapes": [
+    { "id": "cube", "displayName": "Cube", "primitive": "cube", "uniformScale": 1.0, "timeBonusSeconds": 0.0 },
+    { "id": "sphere", "displayName": "Sphere", "primitive": "sphere", "uniformScale": 1.0, "timeBonusSeconds": 0.25 },
+    { "id": "capsule", "displayName": "Capsule", "primitive": "capsule", "uniformScale": 0.95, "timeBonusSeconds": 0.5 },
+    { "id": "cylinder", "displayName": "Cylinder", "primitive": "cylinder", "uniformScale": 0.95, "timeBonusSeconds": 0.7 }
+  ]
+}

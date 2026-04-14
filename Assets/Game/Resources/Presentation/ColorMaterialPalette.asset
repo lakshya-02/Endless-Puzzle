@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5dc1518e6217b42b051077fc7ae3cd, type: 3}
+  m_Name: ColorMaterialPalette
+  m_EditorClassIdentifier: 
+  _fallbackBaseMaterial: {fileID: 2100000, guid: 8869b7be1a14d4c4288fdd4ca6053796,
+    type: 2}
+  _entries:
+  - colorId: red
+    material: {fileID: 2100000, guid: eb8da2ccca96484458446cd91b1265dc, type: 2}
+  - colorId: blue
+    material: {fileID: 2100000, guid: a80757cb70795b14ab5bbf66e65a2499, type: 2}
+  - colorId: green
+    material: {fileID: 2100000, guid: 03a3e20525acd1044bbb0b5e72026b2e, type: 2}
+  - colorId: yellow
+    material: {fileID: 2100000, guid: c2571757b7787b64b94871e1d766961b, type: 2}
