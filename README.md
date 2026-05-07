@@ -1,3 +1,4 @@
+
 # Endless Puzzle Prototype
 
 A Unity 3D endless puzzle game built for portrait/mobile play.
@@ -6,24 +7,11 @@ Players answer runtime-generated prompts by tapping the falling object with the 
 
 ## Demo
 
-Demo video file to upload:
-
-```text
-C:\Users\Lakshya\Downloads\EndlessPuzzle.mp4
-```
-
-After uploading it to GitHub, replace this placeholder with the generated video link:
+https://github.com/user-attachments/assets/8363e275-d44d-4997-876b-0cbf52708a65
 
 ```md
-https://github.com/user-attachments/assets/PASTE-YOUR-DEMO-VIDEO-LINK
+https://github.com/user-attachments/assets/8363e275-d44d-4997-876b-0cbf52708a65
 ```
-
-How to upload the video on GitHub:
-
-1. Open this README on GitHub and click edit.
-2. Drag `C:\Users\Lakshya\Downloads\EndlessPuzzle.mp4` into the editor.
-3. Wait for GitHub to upload it and create a `github.com/user-attachments/...` link.
-4. Replace the placeholder above with that link.
 
 ## Features
 
